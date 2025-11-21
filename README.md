@@ -263,11 +263,7 @@ PORT    STATE SERVICE    VERSION
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sc4rf4c3x/sc4rf4c3x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sc4rf4c3x/sc4rf4c3x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sc4rf4c3x/sc4rf4c3x/output/github-contribution-grid-snake.svg">
-</picture>
+![snake gif](https://github.com/sc4rf4c3x/sc4rf4c3x/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -300,7 +296,7 @@ PORT    STATE SERVICE    VERSION
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sc4rf4c3x&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=sc4rf4c3x&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 
 ```diff
 📜 CERTIFICATIONS ROADMAP
@@ -370,7 +366,7 @@ PORT    STATE SERVICE    VERSION
 
 ### `>_ Remember: With great power comes great responsibility. Always hack ethically! 🛡️`
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
